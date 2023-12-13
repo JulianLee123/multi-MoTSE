@@ -1,0 +1,11 @@
+task,source1,source2,r2,mae
+alpha,zpve,r2,0.800,2.729
+mu,r2,cv,0.320,0.866
+homo,lumo,mu,0.258,0.014
+lumo,gap,zpve,0.219,0.034
+gap,lumo,zpve,0.244,0.034
+r2,alpha,u298,0.404,156.444
+zpve,alpha,gap,0.517,0.018
+u0,h298,g298,0.971,3.890
+u298,g298,h298,0.981,3.614
+h298,u0,g298,0.974,3.777
