@@ -4,6 +4,8 @@ This repo is built on top of the implementation for "MoTSE: an interpretable tas
 
 Code was run using T4 GPUs on Google Colab. Dependencies are specified in requirements.txt. 
 
+NOTE: saved_models.zip and datasets.zip need to be uncompressed.
+
 ## How to Run
 
 Code is included to run the scratch, MoTSE, and multi-MoTSE models on the QM9 and PCBA datasets. To run the code, change the path_to_src variable in the first code block.
