@@ -11,8 +11,11 @@ NOTE: [saved_models.zip](https://drive.google.com/file/d/12XfAX3EPKP_GfhG6uw71NB
 Code is included to run the scratch, MoTSE, and multi-MoTSE models on the QM9 and PCBA datasets. To run the code, change the path_to_src variable in the first code block.
 
 src/scratch.ipynb --> train scratch model
+
 src/motse.ipynb --> train MoTSE model
+
 src/multi-motse.ipynb --> train multi-MoTSE model (requires running the "Calculate Similarity" section of src/motse.ipynb first)
+
 src/analysis.ipynb --> generate graphs of my results
 
 ## Folder + File Descriptions
