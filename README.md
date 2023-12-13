@@ -21,7 +21,9 @@ src/analysis.ipynb --> generate graphs of my results
 ## Folder + File Descriptions
 
 datasets: stores QM9, PCBA, and probe (Zinc) datasets
+
 saved_models: stores saved models
+
 results: stores results 
 
 In addition to src/multi-motse.ipynb, further implementation details of the multi-motse GNN can be found in src/multi_trainer.py, src/models.py (modified to support multi-task learning). 
