@@ -4,7 +4,7 @@ This repo is built on top of the implementation for "MoTSE: an interpretable tas
 
 Code was run using T4 GPUs on Google Colab. Dependencies are specified in requirements.txt. 
 
-NOTE: saved_models.zip and datasets.zip need to be uncompressed.
+NOTE: [saved_models.zip](https://drive.google.com/file/d/12XfAX3EPKP_GfhG6uw71NB2kRbn2hOYQ/view?usp=drive_link) and [datasets.zip](https://drive.google.com/file/d/17YA8A3EK2uWkOPZYWKWosZPz6lqMo5HT/view?usp=drive_link) need to be downloaded from the provided links, uncompressed, and saved as the folders "saved_models" and "datasets" in the repo.
 
 ## How to Run
 
